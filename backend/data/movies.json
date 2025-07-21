@@ -1,0 +1,1381 @@
+[
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd79e4"
+    },
+    "plot": "The misadventures of Buster in three separate historical periods.",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 63,
+    "cast": [
+      "Buster Keaton",
+      "Margaret Leahy",
+      "Wallace Beery",
+      "Joe Roberts"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Three Ages",
+    "fullplot": "In his first independently produced feature film Buster tells of love and romance through three historical ages: the Stone Age, the Roman Age, and the Modern Age.",
+    "countries": [
+      "USA"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1460246400000"
+      }
+    },
+    "directors": [
+      "Edward F. Cline",
+      "Buster Keaton"
+    ],
+    "writers": [
+      "Clyde Bruckman (story)",
+      "Joseph A. Mitchell (story)",
+      "Jean C. Havez (story)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-05 01:02:46.273000000",
+    "year": 1923,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 2628,
+      "id": 14538
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 1412,
+        "meter": 77
+      },
+      "dvd": {
+        "$date": "1999-11-23T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.2,
+        "numReviews": 8,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-09T18:36:00.000Z"
+      },
+      "rotten": 0,
+      "fresh": 8
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd7faa"
+    },
+    "plot": "Mrs Erlynne, the mother of Lady Windermere - her daughter does not know about her - wants to be introduced in society, so that she can marry Lord Augustus Lorton. Lord Windermere, who ...",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 120,
+    "rated": "APPROVED",
+    "cast": [
+      "Ronald Colman",
+      "May McAvoy",
+      "Bert Lytell",
+      "Irene Rich"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDUyYzY0ZDAtMDYwYS00ZjExLTk4ZDItYjY4OGE5M2Y5ZWViXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Lady Windermere's Fan",
+    "fullplot": "Mrs Erlynne, the mother of Lady Windermere - her daughter does not know about her - wants to be introduced in society, so that she can marry Lord Augustus Lorton. Lord Windermere, who helped her with a cheque, invites her to his wifes birthday-party, but Lady Windermere thinks, she has reason to be jealous, so she decides to leave her husband and go to Lord Darlington, who is pining for her. Mrs Erlynne finds this out and tries to prevent her of this mistake, but her daughter leaves her fan in Lord Darlingtons residence.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1389052800000"
+      }
+    },
+    "directors": [
+      "Ernst Lubitsch"
+    ],
+    "writers": [
+      "Oscar Wilde (by)",
+      "Julien Josephson (adapted to the screen by)",
+      "Maude Fulton (titles by)",
+      "Eric Locke (titles by)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-22 00:15:14.157000000",
+    "year": 1925,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 630,
+      "id": 16004
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 153,
+        "meter": 76
+      },
+      "lastUpdated": {
+        "$date": "2015-08-16T19:14:59.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1390f29313caabcd5ea4"
+    },
+    "plot": "A District Attorney's outspoken stand on abortion gets him in trouble with the local community.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 62,
+    "rated": "APPROVED",
+    "cast": [
+      "Tyrone Power Sr.",
+      "Helen Riaume",
+      "Marie Walcamp",
+      "Cora Drew"
+    ],
+    "title": "Where Are My Children?",
+    "fullplot": "While prosecuting a physician for the death of a client after an abortion, the district attorney discovers that his wife helped her society friends and the daughter of her maid obtain and pay for abortions from the physician (and was perhaps herself also a client.)",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1693699200000"
+      }
+    },
+    "directors": [
+      "Phillips Smalley",
+      "Lois Weber"
+    ],
+    "writers": [
+      "Lucy Payton (from the story by)",
+      "Franklin Hall (from the story by)",
+      "Lois Weber",
+      "Phillips Smalley"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-07 00:51:32.560000000",
+    "year": 1916,
+    "imdb": {
+      "rating": 5.9,
+      "votes": 247,
+      "id": 7558
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.1,
+        "numReviews": 34,
+        "meter": 50
+      },
+      "production": "MCA/Universal Pictures",
+      "lastUpdated": {
+        "$date": "2015-08-06T19:49:17.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd6d40"
+    },
+    "plot": "A tipsy doctor encounters his patient sleepwalking on a building ledge, high above the street.",
+    "genres": [
+      "Comedy",
+      "Short"
+    ],
+    "runtime": 26,
+    "rated": "PASSED",
+    "cast": [
+      "Harold Lloyd",
+      "Roy Brooks",
+      "Mildred Davis",
+      "Wallace Howe"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODliMjc3ODctYjhlOC00MDM5LTgzNmUtMjQ1MmViNDQ0NzlhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY1000_SX677_AL_.jpg",
+    "title": "High and Dizzy",
+    "fullplot": "After a long wait, a young doctor finally has a patient come to his office. She is a young woman whose father has brought her to be treated for sleep-walking, but the father becomes annoyed with the doctor, and takes his daughter away. Soon afterward, the young doctor shares in a drinking binge with another doctor who has built a still in his office. After a series of misadventures, the two of them wind up in the same hotel where the daughter and her father are staying, leading to some hazardous predicaments.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1561334400000"
+      }
+    },
+    "directors": [
+      "Hal Roach"
+    ],
+    "writers": [
+      "Frank Terry (story)",
+      "H.M. Walker (titles)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-11 00:35:33.717000000",
+    "year": 1920,
+    "imdb": {
+      "rating": 7,
+      "votes": 646,
+      "id": 11293
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.4,
+        "numReviews": 30,
+        "meter": 70
+      },
+      "lastUpdated": {
+        "$date": "2015-06-27T19:17:10.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1390f29313caabcd42e8"
+    },
+    "plot": "A group of bandits stage a brazen train hold-up, only to find a determined posse hot on their heels.",
+    "genres": [
+      "Short",
+      "Western"
+    ],
+    "runtime": 11,
+    "cast": [
+      "A.C. Abadie",
+      "Gilbert M. 'Broncho Billy' Anderson",
+      "George Barnes",
+      "Justus D. Barnes"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE5NzYtYTYyNS00MDVmLWIwYjgtMmYwYWIxZDYyNzU2XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Great Train Robbery",
+    "fullplot": "Among the earliest existing films in American cinema - notable as the first film that presented a narrative story to tell - it depicts a group of cowboy outlaws who hold up a train and rob the passengers. They are then pursued by a Sheriff's posse. Several scenes have color included - all hand tinted.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-2085523200000"
+      }
+    },
+    "directors": [
+      "Edwin S. Porter"
+    ],
+    "rated": "TV-G",
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-13 00:27:59.177000000",
+    "year": 1903,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 9847,
+      "id": 439
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 2559,
+        "meter": 75
+      },
+      "fresh": 6,
+      "critic": {
+        "rating": 7.6,
+        "numReviews": 6,
+        "meter": 100
+      },
+      "rotten": 0,
+      "lastUpdated": {
+        "$date": "2015-08-08T19:16:10.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd71f5"
+    },
+    "plot": "A young man, unaccustomed to children, must accompany a young girl on a train trip.",
+    "genres": [
+      "Comedy",
+      "Short"
+    ],
+    "runtime": 35,
+    "rated": "PASSED",
+    "cast": [
+      "Harold Lloyd",
+      "Mildred Davis",
+      "Anna Mae Bilson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjgzYzY1NjEtYWQxZS00ZjA4LWJlYmQtYzRjNTg3NjUwNDRlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Now or Never",
+    "fullplot": "Mary is looking after a young child whose parents have little time for her. So, when Mary travels home to meet her childhood sweetheart, she takes the child with her. Meanwhile, her boyfriend has a mishap on the road, and is tricked out of his money by a tramp. When the tramp then hitches a ride on a train, the boyfriend does so as well. At the station, he meets Mary and the child, and they plan to re-board the train together. But difficulties arise when Mary sees her boss boarding the same train - and there is also the problem that her boyfriend doesn't have a ticket.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1538956800000"
+      }
+    },
+    "directors": [
+      "Fred C. Newmeyer",
+      "Hal Roach"
+    ],
+    "writers": [
+      "H.M. Walker (titles)",
+      "Sam Taylor (scenario)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-06-25 00:02:16.613000000",
+    "year": 1921,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 489,
+      "id": 12512
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 3
+      },
+      "lastUpdated": {
+        "$date": "2015-07-16T17:59:55.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd9258"
+    },
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 86,
+    "cast": [
+      "Harry Baur",
+      "Paule Andral",
+      "Jackie Monnier",
+      "Jean Bradin"
+    ],
+    "title": "David Golder",
+    "lastupdated": "2015-01-17 00:46:41",
+    "languages": [
+      "French"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1225238400000"
+      }
+    },
+    "directors": [
+      "Julien Duvivier"
+    ],
+    "writers": [
+      "Irène Nèmirovsky (novel)",
+      "Julien Duvivier"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "year": 1931,
+    "imdb": {
+      "rating": 6.7,
+      "votes": 63,
+      "id": 20814
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 211,
+        "meter": 71
+      },
+      "dvd": {
+        "$date": "2013-01-29T00:00:00.000Z"
+      },
+      "production": "Franco London Films",
+      "lastUpdated": {
+        "$date": "2015-09-10T19:08:56.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd9600"
+    },
+    "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 87,
+    "rated": "PASSED",
+    "cast": [
+      "Virginia Cherrill",
+      "Florence Lee",
+      "Harry Myers",
+      "Al Ernest Garcia"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX677_AL_.jpg",
+    "title": "City Lights",
+    "fullplot": "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1225152000000"
+      }
+    },
+    "directors": [
+      "Charles Chaplin"
+    ],
+    "writers": [
+      "Charles Chaplin"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "3 wins."
+    },
+    "lastupdated": "2015-09-06 00:10:05.493000000",
+    "year": 1931,
+    "imdb": {
+      "rating": 8.6,
+      "votes": 93912,
+      "id": 21749
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.4,
+        "numReviews": 26133,
+        "meter": 96
+      },
+      "dvd": {
+        "$date": "2000-02-08T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 9,
+        "numReviews": 42,
+        "meter": 98
+      },
+      "lastUpdated": {
+        "$date": "2015-09-14T17:11:11.000Z"
+      },
+      "rotten": 1,
+      "production": "Twentieth Century Fox Home Entertainment",
+      "fresh": 41
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd96ae"
+    },
+    "plot": "Hildy Johnson, newspaper reporter, is engaged to Peggy Grant and planning to move to New York for a higher paying advertising job. The court press room is full of lame reporters who invent ...",
+    "genres": [
+      "Comedy"
+    ],
+    "runtime": 101,
+    "rated": "TV-PG",
+    "cast": [
+      "Adolphe Menjou",
+      "Pat O'Brien",
+      "Mary Brian",
+      "Edward Everett Horton"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM4NDIwNjc3NV5BMl5BanBnXkFtZTgwODMyMzM0MzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Front Page",
+    "fullplot": "Hildy Johnson, newspaper reporter, is engaged to Peggy Grant and planning to move to New York for a higher paying advertising job. The court press room is full of lame reporters who invent stories as much as write them. All are waiting to cover the hanging of Earl Williams. When Williams escapes from the inept Sheriff, Hildy seizes the opportunity by using his $260 honeymoon money to payoff an insider and get the scoop on the escape. However, Walter Burns, the Post's editor, is slow to repay Hildy back, hoping that he will stay on the story. Getting a major scoop looks possible when Hildy stumbles onto the bewildered escapee and hides him in a roll-top desk in the press room. Burns shows up to help. Can they keep Williams' whereabouts secret long enough to get the scoop, especially with the Sheriff and other reporters hovering around?",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1222732800000"
+      }
+    },
+    "directors": [
+      "Lewis Milestone"
+    ],
+    "writers": [
+      "Ben Hecht (by)",
+      "Charles MacArthur (by)",
+      "Bartlett Cormack (adaptation)",
+      "Charles Lederer (additional dialogue)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 0,
+      "text": "Nominated for 3 Oscars. Another 2 wins."
+    },
+    "lastupdated": "2015-09-06 00:10:44.853000000",
+    "year": 1931,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 1290,
+      "id": 21890
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.2,
+        "numReviews": 957,
+        "meter": 62
+      },
+      "dvd": {
+        "$date": "2001-05-08T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.4,
+        "numReviews": 11,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2015-09-01T18:14:38.000Z"
+      },
+      "rotten": 1,
+      "production": "United Artists",
+      "fresh": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd9c4c"
+    },
+    "countries": [
+      "France"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 91,
+    "cast": [
+      "Harry Baur",
+      "Robert Lynen",
+      "Louis Gauthier",
+      "Simone Aubry"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZiOWVhNDgtOGJjYy00OWI5LThiMTMtYTZjYjIyYzU2MDJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI3OTIzOA@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Red Head",
+    "lastupdated": "2015-06-03 00:02:33.337000000",
+    "languages": [
+      "French"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1130457600000"
+      }
+    },
+    "directors": [
+      "Julien Duvivier"
+    ],
+    "writers": [
+      "Jules Renard (novel)",
+      "Julien Duvivier (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "year": 1932,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 272,
+      "id": 23345
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 104,
+        "meter": 100
+      },
+      "dvd": {
+        "$date": "2009-02-24T00:00:00.000Z"
+      },
+      "production": "Divisa Home Video",
+      "lastUpdated": {
+        "$date": "2015-09-01T18:51:07.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd9d4a"
+    },
+    "plot": "A condemned murderer, in the process of being executed, relives the events that led to his being sentenced to die in the electric chair.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": 67,
+    "cast": [
+      "Edward G. Robinson",
+      "Vivienne Osborne",
+      "Guy Kibbee",
+      "Preston Foster"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFjM2JmYjQtODY3YS00M2Q1LTliNjctYmJjOWI0NzUwYjg5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Two Seconds",
+    "fullplot": "Allen claims he his being executed for the wrong murder. Flashbacks show him working with Clark as a riveter. When he makes a killing on the horses he meets Shirley and gets married. When Clark tells him Shirley is unfaithful they fight and Clark falls to his death. Later he finds that Clark was telling the truth.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1186444800000"
+      }
+    },
+    "directors": [
+      "Mervyn LeRoy"
+    ],
+    "writers": [
+      "Elliott Lester (play)",
+      "Harvey F. Thew (adaptation)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-04 00:30:22.147000000",
+    "year": 1932,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 528,
+      "id": 23629
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 105,
+        "meter": 75
+      },
+      "production": "Warner Bros.",
+      "lastUpdated": {
+        "$date": "2015-08-27T18:01:11.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd9d4c"
+    },
+    "plot": "A gentleman thief and a lady pickpocket join forces to con a beautiful perfume company owner. Romantic entanglements and jealousies confuse the scheme.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "runtime": 83,
+    "rated": "PASSED",
+    "cast": [
+      "Miriam Hopkins",
+      "Kay Francis",
+      "Herbert Marshall",
+      "Charles Ruggles"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2E5ODgyYmQtY2Q0ZS00N2MyLWJhYzktYTliMWEyOWM2OGNiXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Trouble in Paradise",
+    "fullplot": "High class European thief Gaston Monescu meets his soul mate Lily, a pickpocket masquerading as a countess. The two join forces and come under the employ of Mme. Colet, the beautiful owner of the Colet perfume company. Gaston works as Mme. Colet's personal secretary under the alias Monsieur La Valle. Rumors start to fly as 'M. La Valle' steals Mme. Colet away from her other suitors. When the secret of his true identity catches up to him, Gaston is caught between the two beautiful women.",
+    "languages": [
+      "English",
+      "Italian",
+      "Russian",
+      "Spanish",
+      "German"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1173830400000"
+      }
+    },
+    "directors": [
+      "Ernst Lubitsch"
+    ],
+    "writers": [
+      "Samson Raphaelson (screenplay)",
+      "Grover Jones (adaptation)",
+      "Aladar Laszlo (play)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "2 wins."
+    },
+    "lastupdated": "2015-09-17 01:50:05.933000000",
+    "year": 1932,
+    "imdb": {
+      "rating": 8.2,
+      "votes": 9101,
+      "id": 23622
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.2,
+        "numReviews": 3945,
+        "meter": 91
+      },
+      "dvd": {
+        "$date": "2003-01-07T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 23,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2015-08-20T18:09:41.000Z"
+      },
+      "rotten": 2,
+      "production": "Paramount Pictures",
+      "fresh": 21
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcda126"
+    },
+    "plot": "An Iowa family finds adventure, love, and heartbreak, when they spend a week at the state fair.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 99,
+    "rated": "PASSED",
+    "cast": [
+      "Janet Gaynor",
+      "Will Rogers",
+      "Lew Ayres",
+      "Sally Eilers"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWEwOWI5M2YtNmQwYi00MzI5LTllYjgtNTFiZDcwNGIwOGM3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "State Fair",
+    "fullplot": "The Frake family attend the Iowa State Fair. Father Abel enters his Hampshire boar, Blue Boy, in the hog contents. Mother Melissa enters the mincemeat competition. And their children, Margy and Wayne, find love with newspaper reporter Pat Gilbert and trapeze artist Emily Joyce. But will everyone return home safe and happy or will hearts be broken?",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1164153600000"
+      }
+    },
+    "directors": [
+      "Henry King"
+    ],
+    "writers": [
+      "Philip Stong (novel)",
+      "Sonya Levien (screenplay)",
+      "Paul Green (screenplay)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 0,
+      "text": "Nominated for 2 Oscars. Another 2 wins."
+    },
+    "lastupdated": "2015-08-23 01:12:02.303000000",
+    "year": 1933,
+    "imdb": {
+      "rating": 7,
+      "votes": 477,
+      "id": 24610
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 188,
+        "meter": 63
+      },
+      "production": "20th Century Fox Film Corporation",
+      "lastUpdated": {
+        "$date": "2015-09-10T19:37:47.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcda224"
+    },
+    "plot": "Elizabeth Barrett's tyrannical father has forbidden any of his family to marry. Nevertheless, Elizabeth falls in love with the poet Robert Browning.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 109,
+    "rated": "PASSED",
+    "cast": [
+      "Norma Shearer",
+      "Fredric March",
+      "Charles Laughton",
+      "Maureen O'Sullivan"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Barretts of Wimpole Street",
+    "fullplot": "In 1845 London, the Barrett family is ruled with an iron fist by its stern widowed patriarch, Edward Moulton-Barrett. His nine grown children are afraid of him more than they love him. One of his rules is that none of his children are allowed to marry, which does not sit well with youngest daughter Henrietta as she loves and wants to marry Captain Surtees Cook. Of the nine, the one exception is his daughter Elizabeth, who abides faithfully to her father's wishes. Elizabeth does not think too much about the non-marriage rule as she has an unknown chronic illness which has kept her bedridden. She feels her life will not be a long one. With her time, she writes poetry, which she shares by correspondence with another young poet, Robert Browning. Elizabeth's outlook on her life changes when she meets Mr. Browning for the first time, he who has fallen in love with her without even having met her. She, in return, falls in love with him after their meeting. With Mr. Browning's love and support, Elizabeth tries to get well and enjoy life, this all against the thoughts of her father, who physically and emotionally traps Elizabeth and by association all of his children, all in the name of protecting her and them in the name of God.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1113350400000"
+      }
+    },
+    "directors": [
+      "Sidney Franklin"
+    ],
+    "writers": [
+      "Rudolph Besier (from the play by)",
+      "Ernest Vajda (screen play)",
+      "Claudine West (screen play)",
+      "Donald Ogden Stewart (screen play)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "Nominated for 2 Oscars. Another 1 win."
+    },
+    "lastupdated": "2015-08-31 00:05:15.920000000",
+    "year": 1934,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1003,
+      "id": 24865
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 313,
+        "meter": 70
+      },
+      "dvd": {
+        "$date": "1992-03-25T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 6.9,
+        "numReviews": 7,
+        "meter": 71
+      },
+      "lastUpdated": {
+        "$date": "2015-08-25T18:51:48.000Z"
+      },
+      "rotten": 2,
+      "production": "MGM",
+      "fresh": 5
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcda515"
+    },
+    "plot": "Mary Barrett is an aspiring Opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their ...",
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "runtime": 84,
+    "rated": "PASSED",
+    "cast": [
+      "Grace Moore",
+      "Tullio Carminati",
+      "Lyle Talbot",
+      "Mona Barrie"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1._CR0,18,332,479_SY264_CR2,0,178,264_AL_.jpg",
+    "title": "One Night of Love",
+    "fullplot": "Mary Barrett is an aspiring Opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+    "languages": [
+      "English",
+      "Italian"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1113868800000"
+      }
+    },
+    "directors": [
+      "Victor Schertzinger"
+    ],
+    "writers": [
+      "S.K. Lauren (screen play)",
+      "James Gow (screen play)",
+      "Edmund H. North (screen play)",
+      "Dorothy Speare (story)",
+      "Charles Beahan (story)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 4,
+      "text": "Won 2 Oscars. Another 1 win & 4 nominations."
+    },
+    "lastupdated": "2015-08-27 00:05:48.713000000",
+    "year": 1934,
+    "imdb": {
+      "rating": 6,
+      "votes": 361,
+      "id": 25601
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.2,
+        "numReviews": 128,
+        "meter": 57
+      },
+      "critic": {
+        "rating": 6.6,
+        "numReviews": 5,
+        "meter": 60
+      },
+      "lastUpdated": {
+        "$date": "2015-08-31T18:57:54.000Z"
+      },
+      "rotten": 2,
+      "production": "Sony Pictures Home Entertainment",
+      "fresh": 3
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd883d"
+    },
+    "plot": "A film about the French Field Marshal's youth and early military career.",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "runtime": 240,
+    "cast": [
+      "Albert Dieudonnè",
+      "Vladimir Roudenko",
+      "Edmond Van Daèle",
+      "Alexandre Koubitzky"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY4M2ZlMGQtMzM4ZC00YjdhLTkxOGQtNTU4NjZhY2IwNmRkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Napoleon",
+    "fullplot": "A massive six-hour biopic of Napoleon, tracing his career from his schooldays (where a snowball fight is staged like a military campaign), his flight from Corsica, through the French Revolution (where a real storm is intercut with a political storm) and the Terror, culminating in his triumphant invasion of Italy in 1797 (the film stops there because it was intended to be part one of six, but director Abel Gance never raised the money to make the other five). The film's legendary reputation is due to the astonishing range of techniques that Gance uses to tell his story, culminating in the final twenty-minute triptych sequence, which alternates widescreen panoramas with complex multiple- image montages projected simultaneously on three screens.",
+    "countries": [
+      "France"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1289779200000"
+      }
+    },
+    "directors": [
+      "Abel Gance"
+    ],
+    "writers": [
+      "Abel Gance"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "3 wins."
+    },
+    "lastupdated": "2015-08-21 00:07:08.593000000",
+    "year": 1927,
+    "imdb": {
+      "rating": 7.4,
+      "votes": 5064,
+      "id": 18192
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.3,
+        "numReviews": 1543,
+        "meter": 91
+      },
+      "critic": {
+        "rating": 8.7,
+        "numReviews": 20,
+        "meter": 90
+      },
+      "lastUpdated": {
+        "$date": "2015-08-16T18:17:41.000Z"
+      },
+      "rotten": 2,
+      "production": "Universal Studios Home Entertainment",
+      "fresh": 18
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd8ba2"
+    },
+    "plot": "A professional clown and a self-indulgent count learn to help each other with their problems, but then become romantic rivals.",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": 73,
+    "rated": "PASSED",
+    "cast": [
+      "Lon Chaney",
+      "Bernard Siegel",
+      "Loretta Young",
+      "Cissy Fitzgerald"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MjEzOTc4Ml5BMl5BanBnXkFtZTgwODU1NDM4MTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Laugh, Clown, Laugh",
+    "fullplot": "As professional clowns Tito and Simon are traveling, they happen upon an abandoned child, whom they take in and name Simonetta. When Simonetta is older, she becomes a circus performer herself. One day she is looking for roses, and climbs into the garden of Count Luigi Ravelli. The count becomes infatuated with her, but she leaves as soon as possible. Sometime later, Ravelli consults a doctor about his fits of uncontrollable laughter, and there he meets Tito, who has come to seek help for his fits of uncontrollable weeping. The two decide to help each other, and they establish a friendship, but problems arise when they realize that they are both in love with Simonetta.",
+    "countries": [
+      "USA"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1316476800000"
+      }
+    },
+    "directors": [
+      "Herbert Brenon"
+    ],
+    "writers": [
+      "David Belasco (play)",
+      "Tom Cushing (play)",
+      "Joseph Farnham (titles)",
+      "Elizabeth Meehan"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 2,
+      "text": "2 nominations."
+    },
+    "lastupdated": "2015-09-11 00:00:30.930000000",
+    "year": 1928,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 1257,
+      "id": 19074
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 4.1,
+        "numReviews": 508,
+        "meter": 93
+      },
+      "production": "MGM",
+      "lastUpdated": {
+        "$date": "2015-09-10T19:15:57.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd95ee"
+    },
+    "plot": "Dink Purcell loves his alcoholic father, ex-heavyweight champion Andy \"Champ\" Purcell, despite his frequent binges, his frequent gambling and their squalid living conditions. And there's ...",
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "runtime": 86,
+    "rated": "PASSED",
+    "cast": [
+      "Wallace Beery",
+      "Jackie Cooper",
+      "Irene Rich",
+      "Roscoe Ates"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI0ODE3NzI3OV5BMl5BanBnXkFtZTgwMDIzMTkxMTE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Champ",
+    "fullplot": "Dink Purcell loves his alcoholic father, ex-heavyweight champion Andy \"Champ\" Purcell, despite his frequent binges, his frequent gambling and their squalid living conditions. And there's nothing Andy wouldn't do for Dink. When Andy wins a race horse gambling, he gives it to Dink and they race it at a Tijuana track. There, Dink meets Linda Carleton, a race horse owner herself, and they have an immediate rapport. But Linda's rich husband sees Andy and realizes Dink is Linda's son, who she gave up when she and Andy divorced. Andy is bribed $200 to allow Dink to visit with Linda, but refuses to allow Dink to spend six months with the Carletons. When Andy loses the horse gambling and winds up in jail after a drunken tirade, he realizes Dink's place is with his mother. Dink tearfully goes but sneaks out and returns at his first opportunity, filling a depressed Andy with a desire to make good. So Andy goes into training after his managers arrange a boxing match with the Mexican champion.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1202774400000"
+      }
+    },
+    "directors": [
+      "King Vidor"
+    ],
+    "writers": [
+      "Frances Marion (story)",
+      "Leonard Praskins (dialogue continuity)",
+      "Wanda Tuchock (additional dialogue)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 5,
+      "text": "Won 2 Oscars. Another 3 nominations."
+    },
+    "lastupdated": "2015-08-10 00:07:16.517000000",
+    "year": 1931,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1926,
+      "id": 21730
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 569,
+        "meter": 79
+      },
+      "dvd": {
+        "$date": "2006-01-31T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 6.6,
+        "numReviews": 6,
+        "meter": 83
+      },
+      "lastUpdated": {
+        "$date": "2015-09-10T19:08:22.000Z"
+      },
+      "rotten": 1,
+      "production": "MGM",
+      "fresh": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd987c"
+    },
+    "plot": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
+    "genres": [
+      "Family",
+      "Drama",
+      "Comedy"
+    ],
+    "runtime": 85,
+    "cast": [
+      "Jackie Cooper",
+      "Robert Coogan",
+      "Mitzi Green",
+      "Jackie Searl"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Skippy",
+    "fullplot": "Precocious adolescent Skippy Skinner spends most of his time trying to get around doing those things that his parents want him to do (like brush his teeth), while doing those things his parents don't want him to do. Chief among the latter is spending time across the railroad tracks in Shantytown, instead of playing with \"clean\" neighborhood kids like brother and sister Sidney and Eloise. Skippy's father, Dr. Herbert Skinner, the city's head of the health board, in particular doesn't like Skippy spending time there as Dr. Skinner is a verminophobe, and believes Shantytown is dirty and unhealthy. On Skippy's latest visit to Shantytown when he meets a new friend named Sooky Wayne, he learns that Shantytown is being torn down and its poor residents have to move. And Sooky's mongrel and unlicensed (since Mrs. Wayne can't afford the $3 license fee) dog Penny is captured by the city's dog catcher. As Skippy does whatever he can to raise the $3 to get Penny back for his new friend (which includes breaking into his piggy bank, holding a variety show for the Shantytown kids, and trying to ask his father for the money), Skippy learns that one person seems to be responsible for both these problems in his life, which makes the already tenuous relationship with this person even more tenuous.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1220918400000"
+      }
+    },
+    "directors": [
+      "Norman Taurog"
+    ],
+    "writers": [
+      "Percy Crosby (comic strip)",
+      "Joseph L. Mankiewicz",
+      "Don Marquis (additional dialogue)",
+      "Norman Z. McLeod",
+      "Sam Mintz"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 4,
+      "text": "Won 1 Oscar. Another 3 nominations."
+    },
+    "lastupdated": "2015-07-13 00:05:22.090000000",
+    "year": 1931,
+    "imdb": {
+      "rating": 6.3,
+      "votes": 372,
+      "id": 22397
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 295,
+        "meter": 54
+      },
+      "critic": {
+        "rating": 7,
+        "numReviews": 6,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-09-10T19:14:33.000Z"
+      },
+      "rotten": 0,
+      "production": "Paramount Pictures",
+      "fresh": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd98c3"
+    },
+    "plot": "In his final film, F.W. Murnau presents the tale of two young lovers on the idyllic island of Bora Bora in the South Pacific. Their life is shattered when the old warrior declares the girl ...",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Adventure"
+    ],
+    "runtime": 86,
+    "rated": "TV-PG",
+    "cast": [
+      "Matahi",
+      "Anne Chevalier",
+      "Bill Bambridge",
+      "Hitu"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhmNzg0M2UtZGNkNC00YTQ3LWE0ZjAtMmFjNTI2MmFkZmNiXkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Tabu: A Story of the South Seas",
+    "fullplot": "In his final film, F.W. Murnau presents the tale of two young lovers on the idyllic island of Bora Bora in the South Pacific. Their life is shattered when the old warrior declares the girl to be the Chosen Maid and it is forbidden for any man to even look upon her. Refusing to accept a life apart, they run off to another island, one that is decadent and westernized. The boy works as a pearl diver but not quite understanding the concept of money, is soon in debt. When the old warrior tracks them down they again plan to run away but in a desperate attempt to pay off his debts, the boy dives for pearls in shark-infested waters. The boy is successful but fate seems determined to keep the two lovers apart.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1224115200000"
+      }
+    },
+    "directors": [
+      "F.W. Murnau"
+    ],
+    "writers": [
+      "F.W. Murnau (told by)",
+      "Robert J. Flaherty (told by)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "Won 1 Oscar. Another 2 wins."
+    },
+    "lastupdated": "2015-08-18 00:11:52.283000000",
+    "year": 1931,
+    "imdb": {
+      "rating": 7.7,
+      "votes": 3036,
+      "id": 22458
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 1163,
+        "meter": 79
+      },
+      "dvd": {
+        "$date": "2002-09-03T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.5,
+        "numReviews": 11,
+        "meter": 91
+      },
+      "lastUpdated": {
+        "$date": "2015-09-10T19:15:08.000Z"
+      },
+      "rotten": 1,
+      "production": "Milestone Film & Video",
+      "fresh": 10
+    }
+  }
+]

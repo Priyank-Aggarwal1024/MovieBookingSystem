@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}
+.custom-swiper-pagination .swiper-pagination-bullet-active {
+  width: 48px !important;
+  opacity: 1 !important;
+}
+.swiper-pagination-clickable .swiper-pagination-bullet {
+  border-radius: 40px !important;
+}
