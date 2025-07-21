@@ -40,12 +40,14 @@ const MovieCard = ({ movie, rating = 4.5, onSelect, showDescription }) => {
           )}
         </div>
 
-        <button
-          className="w-full h-9 bg-[#263fa8] hover:bg-[#BD60DE] text-white rounded-xl text-sm font-medium cursor-pointer transition-colors"
-          onClick={onSelect}
-        >
-          🔘 Select
-        </button>
+        {!showDescription && (
+          <button
+            className="w-full h-9 bg-[#263fa8] hover:bg-[#BD60DE] text-white rounded-xl text-sm font-medium cursor-pointer transition-colors"
+            onClick={onSelect}
+          >
+            🔘 Select
+          </button>
+        )}
       </div>
     </div>
   );
